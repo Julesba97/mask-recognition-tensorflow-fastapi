@@ -56,6 +56,8 @@ Voici un exemple des prédictions faites par le modèle de reconnaissance de mas
 ## Démo
 
 Vous pouvez regarder une démonstration de ce projet en action dans la vidéo ci-dessous :
+
+
 https://github.com/Julesba97/mask-recognition-tensorflow-fastapi/assets/102261674/a072ee30-7aed-476b-971f-a4753c9e5e1a
 
 
