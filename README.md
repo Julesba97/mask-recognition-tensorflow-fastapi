@@ -46,4 +46,5 @@ Les données utilisées dans ce projet proviennent du jeu de données "Reconnais
 L'API offre deux points d'accès principaux : 
 
 **POST /generate_random_image** : Génère une image de test aléatoire.
+
 **POST /predict** : Effectue une prédiction sur l'image donnée.
