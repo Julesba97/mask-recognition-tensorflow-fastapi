@@ -59,6 +59,14 @@ Vous pouvez regarder une démonstration de ce projet en action dans la vidéo ci
 https://github.com/Julesba97/mask-recognition-tensorflow-fastapi/assets/102261674/0bdb4a4e-7212-491e-9a8d-d46982ec64de
 
 
+https://github.com/Julesba97/mask-recognition-tensorflow-fastapi/assets/102261674/a072ee30-7aed-476b-971f-a4753c9e5e1a
+
+
+
+
+https://github.com/Julesba97/mask-recognition-tensorflow-fastapi/assets/102261674/6ca27f8c-d0f0-476c-a19c-4d80e33858be
+
+
 
 ## API Documentation
 L'API offre deux points d'accès principaux : 
