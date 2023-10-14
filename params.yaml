@@ -1,0 +1,22 @@
+data_collector:
+  target_name:
+    Mask: 0
+    NoMask: 1
+  image_size:
+    width: 200
+    height: 200
+
+feature_extractor:
+  num_features: 64
+  kernel: [[-1, -1, -1], [-1, 8, -1], [-1, -1,  -1]]
+  pooling_size: 2
+
+deep_mask_detector:
+  image_size: 100
+  kernel_size: 3
+  strides: 1
+  padding: "same"
+  activation: "relu"
+  learning_rate: 0.001
+  batch_size: 32
+  epochs: 30

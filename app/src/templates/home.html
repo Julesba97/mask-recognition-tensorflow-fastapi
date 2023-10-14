@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ url_for('static', path='/css/styles.css')}}">
+    <title>Application Web d'Affichage d'Image</title>
+        
+</head>
+<body>
+    <h1>Reconnaissance du Port de Masque Facial</h1>
+    <div class="container">
+        <img src="{{image_path}}" alt="Image à afficher" onerror="this.src='/static/image_default.png'">
+        <br>
+        <br>
+        <form action="{{ url_for('generate_random_image') }}" method="get">
+        <button type="submit" name="generate">Générer une nouvelle image</button>
+        </form>
+        <br>
+        <br>
+        <form action="{{ url_for('predict') }}" method="post">
+        <button type="submit" name="predict">Exécuter la Reconnaissance de Masque</button>
+        </form>
+    </div>
+</body>
+</html>

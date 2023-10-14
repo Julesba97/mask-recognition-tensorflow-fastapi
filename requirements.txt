@@ -1,0 +1,13 @@
+numpy
+matplotlib
+opencv-python
+tqdm
+PyYAML
+notebook
+tensorflow
+pandas
+scikit-learn
+seaborn
+fastapi
+uvicorn
+dvc
