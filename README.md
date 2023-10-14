@@ -1,6 +1,10 @@
 # Projet de Reconnaissance de Masque
 
-Ce projet a pour objectif de mettre en place un système de reconnaissance de masque en utilisant des techniques de Deep Learning. L'application web qui en découle est construite avec FastAPI, offrant ainsi une interface utilisateur fluide et intuitive. Cependant, l'aspect innovant de ce projet ne s'arrête pas là : j'ai également développé une API permettant de générer aléatoirement des images de test.
+Ce projet a pour objectif de mettre en place un système de reconnaissance de masque en utilisant des techniques de Deep Learning. 
+
+L'application web qui en découle est construite avec FastAPI, offrant ainsi une interface utilisateur fluide et intuitive. 
+
+Cependant, l'aspect innovant de ce projet ne s'arrête pas là : j'ai également développé une API permettant de générer aléatoirement des images de test.
 
 ## Fonctionnalités
 - **Reconnaissance de Masque Avancée** : Le modèle de Deep Learning intégré permet une reconnaissance de masque.
