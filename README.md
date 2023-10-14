@@ -48,6 +48,15 @@ python ./app/src/app.py
 
 Les données utilisées dans ce projet proviennent du jeu de données "Reconnaissance de Masque" de Kaggle. Vous pouvez trouver plus d'informations [ici](https://www.kaggle.com/datasets/omkargurav/face-mask-dataset).
 
+## Exemple de Prédictions
+
+Voici un exemple des prédictions faites par le modèle de reconnaissance de masque sur des images de test :
+![Prédiction d'Image](./artefacts/prediction.png)
+
+## Démo
+
+Vous pouvez regarder une démonstration de ce projet en action dans la vidéo ci-dessous :
+
 ## API Documentation
 L'API offre deux points d'accès principaux : 
 
