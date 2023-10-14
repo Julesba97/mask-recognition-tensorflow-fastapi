@@ -46,7 +46,7 @@ python ./app/src/app.py
 
 ## Source des Données
 
-Les données utilisées dans ce projet proviennent du jeu de données "Reconnaissance de Masque" de Kaggle. Vous pouvez trouver plus d'informations ici.
+Les données utilisées dans ce projet proviennent du jeu de données "Reconnaissance de Masque" de Kaggle. Vous pouvez trouver plus d'informations [ici](https://www.kaggle.com/datasets/omkargurav/face-mask-dataset).
 
 ## API Documentation
 L'API offre deux points d'accès principaux : 
