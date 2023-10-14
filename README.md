@@ -18,7 +18,9 @@ Cependant, l'aspect innovant de ce projet ne s'arrête pas là : j'ai également
 - TensorFlow : Une bibliothèque de machine learning pour créer et entraîner des modèles de Deep Learning.
 
 ## Gestion des Logs
-Les logs de ce projet sont gérés en utilisant le module `logging` intégré de Python. Ils sont judicieusement placés à des points stratégiques dans le code afin d'offrir une visibilité précise sur le déroulement des opérations. Par exemple, lors de la collecte des images, des logs sont générés pour indiquer le nombre total d'images collectées. De même, lors des phases de prétraitement des données et de construction du modèle, des informations détaillées sont enregistrées pour faciliter le suivi et le débogage du processus.
+Les logs de ce projet sont gérés en utilisant le module `logging` intégré de Python. Ils sont judicieusement placés à des points stratégiques dans le code afin d'offrir une visibilité précise sur le déroulement des opérations.
+
+Par exemple, lors de la collecte des images, des logs sont générés pour indiquer le nombre total d'images collectées. De même, lors des phases de prétraitement des données et de construction du modèle, des informations détaillées sont enregistrées pour faciliter le suivi et le débogage du processus.
 ## Installation
 
 Pour exécuter le projet localement, assurez-vous d'avoir Python installé sur votre système. Ensuite, suivez les étapes ci-dessous :
